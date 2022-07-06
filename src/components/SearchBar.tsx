@@ -39,7 +39,7 @@ export const SearchBar = () => {
     <SearchBarContainer>
       <img src={Logo} alt="logo" width="80px" />
       <div>
-        <SearchInput type="text" placeholder="Search Modules" />
+        <SearchInput type="text" placeholder="Search modules" />
         <SearchButton>Search</SearchButton>
       </div>
       <div>
